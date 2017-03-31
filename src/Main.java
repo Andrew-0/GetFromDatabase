@@ -1,11 +1,6 @@
-import com.sun.rowset.internal.Row;
-
 import javax.swing.*;
-import javax.swing.table.DefaultTableCellRenderer;
-import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.sql.*;
-import java.util.ArrayList;
 import java.util.Vector;
 
 public class Main {
